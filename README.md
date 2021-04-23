@@ -1,1 +1,2 @@
 # BEO
+Bayesian Evolutionary Optimization
