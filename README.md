@@ -1,2 +1,2 @@
 # BEO
-Bayesian Evolutionary Optimization
+Bayesian Evolutionary Optimization on Many-objective Problems
